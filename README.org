@@ -1,0 +1,10 @@
+* org-davep-dictrepl
+
+RFC2229 client REPL for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/davep/org-davep-dictrepl.git   |
+| commit  | ca76708  |
+| systems | org-davep-dictrepl |
+|---------+-------------------------------------------|
+
